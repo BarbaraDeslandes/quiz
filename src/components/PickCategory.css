@@ -1,0 +1,27 @@
+#category {
+    text-align: center;
+    max-width: 500px;
+  }
+  
+  #category h2,
+  #category p {
+    margin-bottom: 1rem;
+  }
+  
+  #category p {
+    color: #FFDCD7;
+  }
+  
+  #category img {
+    margin-top: 2rem;
+    max-width: 250px;
+  }
+  
+  #category button {
+    margin: 1rem;
+  }
+
+  #category button {
+    border: 2px solid #fff;
+}
+  
